@@ -1,4 +1,3 @@
-price_checker.py
 import requests
 
 def get_crypto_price(symbol):
